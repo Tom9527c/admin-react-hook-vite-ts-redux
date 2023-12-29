@@ -10,6 +10,7 @@ import '@/assets/styles/sassConfig.scss'
 // 组件的样式
 
 import App from './App.tsx'
+
 import{BrowserRouter} from "react-router-dom"
 
 
